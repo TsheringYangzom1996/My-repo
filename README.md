@@ -1,2 +1,2 @@
-# My-repo
+# My-repository
 repo for learning 
